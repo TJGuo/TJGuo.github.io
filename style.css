@@ -1,0 +1,17 @@
+
+  body {
+    color: dimgray;
+    font-family: Georgia;
+  }
+  .page {
+    width:600px;
+    height:1200px;
+    margin:auto
+  }
+  h1 {font-size: 20pt}
+  h2 {font-size: 12pt}
+  h3 {font-size: 14pt}
+  h4 {
+    color: gray;
+    font-size: 11pt
+  }
